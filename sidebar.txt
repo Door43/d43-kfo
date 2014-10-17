@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kfo:home|Door43 (kfo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kfo|d43-kfo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kfo/archive/master.zip|d43-kfo.zip]]
+
+**Recent Changes**
+{{changes>ns = kfo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kfo|Ethnologue data]]
+
